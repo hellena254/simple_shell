@@ -2,6 +2,7 @@
 
 /**
  * readline - reads a line of input from the user
+ * Return: a dynamically allocated string
  */
 
 char *readline(void)

@@ -38,8 +38,8 @@ void display_prompt(void)
 }
 
 /**
- * _error - prints error message
- * @message: pointer to a character, array of strings
+ * _error - prints error message with shell name prefix
+ * @message: the error message to print
  */
 
 void _error(const char *message)
